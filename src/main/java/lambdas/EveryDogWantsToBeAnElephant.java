@@ -4,7 +4,6 @@ package lambdas;
  * Created by olexandra on 2/6/16.
  */
 class EveryDogWantsToBeAnElephant implements Dog, Elephant {
-
     public static void main(final String[] args) {
         EveryDogWantsToBeAnElephant elephantDog = new EveryDogWantsToBeAnElephant();
 //        Elephant e = new Elephant() {
